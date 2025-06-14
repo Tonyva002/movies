@@ -26,7 +26,7 @@
   
 - Paso 3. Ábrelo en Visual Studio Code.
 -  📌 Descargar Visual Studio Code URL: [here](https://visualstudio.microsoft.com/es/downloads/)
-- 
+   
 - Paso 4. Ejecute npm install para instalar las dependencias.
 
 - Paso 5. Ejecute npm start
