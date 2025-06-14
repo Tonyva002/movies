@@ -31,6 +31,13 @@
 
 - Paso 5. Ejecute npm start
 
+- ![image](https://github.com/user-attachments/assets/30bae7ce-d447-4748-bc14-e1e5b3da5423)
+
+- ![image](https://github.com/user-attachments/assets/c5de2881-4f2b-4059-aa83-e7f1ddd7dc97)
+
+- ![image](https://github.com/user-attachments/assets/d918984f-260b-4851-aca4-8914eebd3e63)
+
+
 
 
 Author
