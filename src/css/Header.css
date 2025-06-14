@@ -1,0 +1,21 @@
+.header {
+  background: linear-gradient(to right, #027aff, #027aff);
+  color: white;
+  padding: 15px 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.login-btn, .trial-btn {
+  background-color: #333;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.trial-btn {
+  font-weight: bold;
+}
